@@ -12,3 +12,7 @@ jakarta.xml.bind-api-2.3.2.jar
 yasson-1.0.3.jar
 
 
+## poi-4.1.2 for excel export big 22MB download from internet
+
+
+## hibernate-5.2.12 (jpa2.1) big 11 MB download from internet
